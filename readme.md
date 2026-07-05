@@ -1,1 +1,1 @@
-A Breast Cancer Detection project built with Python, TensorFlow, and Scikit-learn. The model uses a neural network to classify tumors as malignant or benign using the Wisconsin Breast Cancer dataset, with data preprocessing, feature scaling, model training, evaluation, and predictions.
+A Breast Cancer Detection project built with Python, TensorFlow, and Scikit-learn. The model uses a neural network to classify tumors as malignant or benign using the Wisconsin Breast Cancer dataset, with data preprocessing, feature scaling, model training, evaluation, and prediction.
